@@ -1,0 +1,16 @@
+{
+  "name": "patttrn-jinchurikit",
+  "version": "0.0.1",
+  "private": "true",
+  "workspaces": [
+    "./packages/*",
+    "./examples/*"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

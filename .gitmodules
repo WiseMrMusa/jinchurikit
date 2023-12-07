@@ -1,0 +1,3 @@
+[submodule "jinchurikit"]
+	path = jinchurikit
+	url = ./packages/jinchurikit/
